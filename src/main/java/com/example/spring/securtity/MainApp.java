@@ -1,4 +1,4 @@
-package com.test.spring.securtity;
+package com.example.spring.securtity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

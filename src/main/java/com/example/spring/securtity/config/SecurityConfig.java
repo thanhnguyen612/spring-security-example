@@ -1,4 +1,4 @@
-package com.test.spring.securtity.config;
+package com.example.spring.securtity.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
